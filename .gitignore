@@ -1,0 +1,3 @@
+# Python cache a testy
+__pycache__/
+.pytest_cache/
